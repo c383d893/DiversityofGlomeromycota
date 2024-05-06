@@ -1,0 +1,765 @@
+KC410946.1	Uncultured	Glomerales	clone	H3_24	large	subunit	ribosomal	RNA	gene	
+FR871386.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+FR871391.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+KC411316.1	Uncultured	Glomerales	clone	B12_49	large	subunit	ribosomal	RNA	gene	
+KC411433.1	Uncultured	Glomerales	clone	B18_13	large	subunit	ribosomal	RNA	gene	
+KC515461.1	Uncultured	Archaeosporaceae	clone	Gra-10	28S	ribosomal	RNA	gene	
+MH469288.1	Uncultured	Glomeromycotina	isolate	G9332	small	subunit	ribosomal	RNA	gene	
+JX276895.1	Uncultured	Glomeromycota	clone	KP_C040	18S	ribosomal	RNA	gene	
+HG798895.1	Glomus	compressum	genomic	DNA	containing	18S	rRNA	gene	
+FM876840.3	Geosiphon	pyriformis	partial	18S	rRNA	gene	and	partial	28S	rRNA	gene	
+KC411135.1	Uncultured	Glomerales	clone	H19_14	large	subunit	ribosomal	RNA	gene	
+KC411217.1	Uncultured	Glomerales	clone	B04_50	large	subunit	ribosomal	RNA	gene	
+KC411228.1	Uncultured	Glomerales	clone	B08_06	large	subunit	ribosomal	RNA	gene	
+HE775318.1	Uncultured	Diversispora	18S	rRNA	gene	(partial)	
+LR731856.1	Paraglomus	brasilianum	28S	large	subunit	ribosomal	RNA	gene	
+MH503961.1	Uncultured	Archaeospora	voucher	MG_OTU_ID#110_in	large	subunit	ribosomal	RNA	gene	
+KC166265.1	Ambispora	leptoticha	clone	562a	28S	ribosomal	RNA	gene	
+KX643933.1	Uncultured	fungus	clone	C7R12_46	28S	ribosomal	RNA	gene	
+KF060294.1	Corymbiglomus	corymbiforme	isolate	100-1	18S	ribosomal	RNA	gene	
+JQ029746.1	Uncultured	Glomus	clone	28	large	subunit	ribosomal	RNA	gene	
+CAJVPT010015842.1	Acaulospora	colombiana	strain	CL356	genome	assembly	
+DQ400281.1	Uncultured	Paraglomus	clone	S2R2.20	18S	ribosomal	RNA	gene	
+JF519527.1	Uncultured	Glomeromycota	clone	RELIS_G5_H11	18S	ribosomal	RNA	gene	
+JX683753.1	Uncultured	Diversisporaceae	clone	Agro-22-T	28S	ribosomal	RNA	gene	
+AB547173.1	Uncultured	Scutellospora	gene	for	28S	ribosomal	RNA	
+KF849645.1	Uncultured	Glomus	clone	AM165	18S	ribosomal	RNA	gene	
+FR871339.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+FR871340.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+DQ900950.1	Uncultured	Glomeromycota	clone	gbSC_a40_044	5.8S	ribosomal	RNA	gene	
+AB665521.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+MG664367.1	Uncultured	Glomeromycotina	clone	G31011	small	subunit	ribosomal	RNA	gene	
+FN547522.1	Acaulospora	kentinensis	18S	rRNA	gene	(partial)	
+KC411225.1	Uncultured	Glomerales	clone	B08_03	large	subunit	ribosomal	RNA	gene	
+MT765689.1	Rhizoglomus	sp.	isolate	ASV_395	small	subunit	ribosomal	RNA	gene	
+MZ359655.1	Polonospora	polonica	clone	Pp_3	small	subunit	ribosomal	RNA	gene	
+JX683745.1	Uncultured	Glomeraceae	clone	Agro-14-S	28S	ribosomal	RNA	gene	
+LT993069.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+MH982556.1	Uncultured	Archaeosporales	clone	CL0023	small	subunit	ribosomal	RNA	gene	
+KC515569.1	Uncultured	Acaulosporaceae	clone	Gra-118	28S	ribosomal	RNA	gene	
+KC411084.1	Uncultured	Glomerales	clone	H17_13	large	subunit	ribosomal	RNA	gene	
+KC410979.1	Uncultured	Glomerales	clone	H9_07	large	subunit	ribosomal	RNA	gene	
+MH469469.1	Uncultured	Glomeromycotina	isolate	T82018	small	subunit	ribosomal	RNA	gene	
+FR750083.1	Paraglomus	laccatum	18S	rRNA	gene	(partial)	
+HG995596.1	uncultured	Glomerales	genomic	DNA	sequence	contains	18S	rRNA	gene	
+KT378112.1	Uncultured	Glomeromycotina	clone	SM1_16	18S	ribosomal	RNA	gene	
+KF060296.1	Corymbiglomus	corymbiforme	isolate	100-3	18S	ribosomal	RNA	gene	
+KC410873.1	Uncultured	Glomerales	clone	H1_02	large	subunit	ribosomal	RNA	gene	
+HE858402.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+LR731449.1	Acaulospora	scrobiculata	28S	large	subunit	ribosomal	RNA	gene	
+MT765616.1	Glomeraceae	sp.	isolate	ASV_322	small	subunit	ribosomal	RNA	gene	
+HG425902.1	Uncultured	Glomeraceae	genomic	DNA	containing	18S	rRNA	gene	
+KC411244.1	Uncultured	Glomerales	clone	B08_24	large	subunit	ribosomal	RNA	gene	
+KC411245.1	Uncultured	Glomerales	clone	B08_25	large	subunit	ribosomal	RNA	gene	
+HE858401.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+HQ871519.1	Orbispora	pernambucana	voucher	83-8301	large	subunit	ribosomal	RNA	gene	
+KC411193.1	Uncultured	Glomerales	clone	B04_24	large	subunit	ribosomal	RNA	gene	
+LR731209.1	Diversispora	clara	28S	large	subunit	ribosomal	RNA	gene	
+KJ850201.1	Diversispora	gibbosa	isolate	109-1-21	18S	ribosomal	RNA	gene	
+JQ029751.1	Uncultured	Glomus	clone	38	large	subunit	ribosomal	RNA	gene	
+OL684643.1	Diversispora	sp.	FM-2021a	clone	Dae_407_8	small	subunit	ribosomal	RNA	gene	
+KT378078.1	Uncultured	Glomeromycotina	clone	SL1_50	18S	ribosomal	RNA	gene	
+GQ896287.1	Uncultured	Glomeromycota	clone	I1A3	25S	ribosomal	RNA	gene	
+KC411296.1	Uncultured	Glomerales	clone	B12_27	large	subunit	ribosomal	RNA	gene	
+AB369736.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+MG664523.1	Uncultured	Glomeromycotina	clone	T40510	small	subunit	ribosomal	RNA	gene	
+JX096569.1	Uncultured	Glomeromycota	clone	1_76	18S	ribosomal	RNA	gene	
+KC515491.1	Uncultured	Glomeraceae	clone	Gra-40	28S	ribosomal	RNA	gene	
+MT765471.1	Pervetustus	sp.	isolate	ASV_177	small	subunit	ribosomal	RNA	gene	
+JX096587.1	Uncultured	Glomeromycota	clone	4_84	18S	ribosomal	RNA	gene	
+KC410898.1	Uncultured	Glomerales	clone	H1_35	large	subunit	ribosomal	RNA	gene	
+MT765726.1	Dominikia	compressa	isolate	ASV_432	small	subunit	ribosomal	RNA	gene	
+MT765661.1	Pervetustus	sp.	isolate	ASV_367	small	subunit	ribosomal	RNA	gene	
+KJ701477.1	Uncultured	Glomus	clone	AM538	18S	ribosomal	RNA	gene	
+KC411114.1	Uncultured	Glomerales	clone	H17_44	large	subunit	ribosomal	RNA	gene	
+FR871363.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+FR692349.1	Acaulospora	scrobiculata	genomic	DNA	containing	18S	rRNA	gene	
+KT378098.1	Uncultured	Glomeromycotina	clone	PL2_32	18S	ribosomal	RNA	gene	
+OM201730.1	Dentiscutata	heterogama	clone	MACG2	small	subunit	ribosomal	RNA	gene	
+KY114653.1	Glomeromycotina	sp.	isolate	ZS13_53	18S	ribosomal	RNA	gene	
+JX096570.1	Uncultured	Glomeromycota	clone	1_1	18S	ribosomal	RNA	gene	
+KC410908.1	Uncultured	Glomerales	clone	H1_46	large	subunit	ribosomal	RNA	gene	
+FR865449.1	Entrophospora	baltica	genomic	DNA	containing	18S	rRNA	gene	
+KC411292.1	Uncultured	Glomerales	clone	B12_22	large	subunit	ribosomal	RNA	gene	
+MT765507.1	Dominikia	sp.	isolate	ASV_213	small	subunit	ribosomal	RNA	gene	
+HF548854.1	Septoglomus	viscosum	genomic	DNA	containing	18S	rRNA	gene	
+MT765481.1	Paraglomeraceae	sp.	isolate	ASV_187	small	subunit	ribosomal	RNA	gene	
+KC411376.1	Uncultured	Glomerales	clone	B16_04	large	subunit	ribosomal	RNA	gene	
+HF970211.1	Uncultured	Septoglomus	genomic	DNA	containing	18S	rRNA	gene	
+AB935546.1	Uncultured	Claroideoglomus	gene	for	28S	ribosomal	RNA	
+LC682549.1	Diversispora	epigaea	CE2105	genes	for	18S	rRNA	
+MH469323.1	Uncultured	Glomeromycotina	isolate	T6548	small	subunit	ribosomal	RNA	gene	
+KC410885.1	Uncultured	Glomerales	clone	H1_19	large	subunit	ribosomal	RNA	gene	
+HG425937.1	Uncultured	Diversispora	genomic	DNA	containing	18S	rRNA	gene	
+MT765713.1	Rhizoglomus	sp.	isolate	ASV_419	small	subunit	ribosomal	RNA	gene	
+LC682543.1	Diversispora	epigaea	CE2022	genes	for	18S	rRNA	
+JQ029745.1	Uncultured	Glomus	clone	23	large	subunit	ribosomal	RNA	gene	
+KF849500.1	Uncultured	Acaulospora	clone	AM20	18S	ribosomal	RNA	gene	
+AB561126.1	Uncultured	Scutellospora	gene	for	28S	ribosomal	RNA	
+MH469329.1	Uncultured	Glomeromycotina	isolate	T71037	small	subunit	ribosomal	RNA	gene	
+MT765495.1	Dominikia	sp.	isolate	ASV_201	small	subunit	ribosomal	RNA	gene	
+MT722023.1	Entrophospora	sp.	clone	7	small	subunit	ribosomal	RNA	gene	
+AB665517.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+MT765631.1	Pervetustus	sp.	isolate	ASV_337	small	subunit	ribosomal	RNA	gene	
+JN971069.1	Paradentiscutata	baiana	isolate	spore	1	large	subunit	ribosomal	RNA	gene	
+FN547623.1	Glomus	etunicatum	18S	rRNA	gene	(partial)	
+KC411235.1	Uncultured	Glomerales	clone	B08_14	large	subunit	ribosomal	RNA	gene	
+JX096603.1	Uncultured	Glomeromycota	clone	11_5	18S	ribosomal	RNA	gene	
+AB369817.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+KP756526.1	Glomus	sp.	2	SL-2017	isolate	SR2	clone	2	18S	ribosomal	RNA	gene	
+KC166275.1	Ambispora	leptoticha	clone	228a	28S	ribosomal	RNA	gene	
+FR871342.1	Uncultured	Diversispora	partial	28S	rRNA	gene	
+KF181186.1	Uncultured	Glomeromycota	clone	HLSLP9201AUEYT	large	subunit	ribosomal	RNA	gene	
+MT765377.1	Diversispora	sporocarpia	isolate	ASV_83	small	subunit	ribosomal	RNA	gene	
+KC411003.1	Uncultured	Glomerales	clone	H9_35	large	subunit	ribosomal	RNA	gene	
+LR730592.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+MT765566.1	Paraglomus	occultum	isolate	ASV_272	small	subunit	ribosomal	RNA	gene	
+KT378120.1	Uncultured	Glomeromycotina	clone	PL1_22	18S	ribosomal	RNA	gene	
+MT765620.1	Microdominikia	litorea	isolate	ASV_326	small	subunit	ribosomal	RNA	gene	
+KC411083.1	Uncultured	Glomerales	clone	H17_12	large	subunit	ribosomal	RNA	gene	
+KC411147.1	Uncultured	Glomerales	clone	H19_29	large	subunit	ribosomal	RNA	gene	
+KC410928.1	Uncultured	Glomerales	clone	H3_06	large	subunit	ribosomal	RNA	gene	
+KF849654.1	Uncultured	Glomus	clone	AM174	18S	ribosomal	RNA	gene	
+JX096584.1	Uncultured	Glomeromycota	clone	4_42	18S	ribosomal	RNA	gene	
+JF439204.1	Glomus	hoi	isolate	G11_7	18S	ribosomal	RNA	gene	
+MH469354.1	Uncultured	Glomeromycotina	isolate	G6165	small	subunit	ribosomal	RNA	gene	
+FR873155.1	Uncultured	Glomus	genomic	DNA	containing	18S	rRNA	gene	
+MK036781.1	Sclerocarpum	amazonicum	isolate	Sa2	small	subunit	ribosomal	RNA	gene	
+MH469325.1	Uncultured	Glomeromycotina	isolate	G8368	small	subunit	ribosomal	RNA	gene	
+MT765562.1	Microdominikia	litorea	isolate	ASV_268	small	subunit	ribosomal	RNA	gene	
+FR865444.1	Otospora	bareae	genomic	DNA	containing	18S	rRNA	gene	
+KC411151.1	Uncultured	Glomerales	clone	H19_35	large	subunit	ribosomal	RNA	gene	
+AY394692.1	Uncultured	ascomycete	clone	K31-23	28S	ribosomal	RNA	gene	
+FR865451.1	Entrophospora	baltica	genomic	DNA	containing	18S	rRNA	gene	
+KP756489.1	Glomeraceae	sp.	1	SL-2017	isolate	TS5	clone	1	18S	ribosomal	RNA	gene	
+KC410874.1	Uncultured	Glomerales	clone	H1_05	large	subunit	ribosomal	RNA	gene	
+FR750201.1	Glomus	sp.	Att565-7	18S	rRNA	gene	(partial)	
+KJ484694.1	Uncultured	Glomeromycota	clone	M_30	18S	ribosomal	RNA	gene	
+MH469470.1	Uncultured	Glomeromycotina	isolate	T82014	small	subunit	ribosomal	RNA	gene	
+FR871328.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+AB750744.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+KJ564133.1	Kamienskia	bistrata	strain	205-1	clone	5	18S	ribosomal	RNA	gene	
+JX122774.1	Paraglomus	sp.	GS-2013a	isolate	G23	spore	2	large	subunit	ribosomal	RNA	gene	
+MT765394.1	Microdominikia	litorea	isolate	ASV_100	small	subunit	ribosomal	RNA	gene	
+HF968979.1	Gigaspora	margarita	partial	28S	rRNA	gene	
+KJ701453.1	Uncultured	Glomus	clone	AM510	18S	ribosomal	RNA	gene	
+AY639356.1	Uncultured	Glomeromycotina	clone	6.7	28S	large	subunit	ribosomal	RNA	gene	
+HE775291.1	Uncultured	Glomeraceae	18S	rRNA	gene	(partial)	
+KC411229.1	Uncultured	Glomerales	clone	B08_08	large	subunit	ribosomal	RNA	gene	
+FR871343.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+AJ972464.1	Glomus	drummondi	partial	18S	rRNA	gene	
+EU747850.1	Uncultured	glomeromycete	clone	ARMO25.3	internal	transcribed	spacer	1	
+KM207903.1	Uncultured	Glomeromycota	clone	SLT1_39	18S	ribosomal	RNA	gene	
+AY639285.1	Entrophospora	claroidea	clone	2.1	28S	large	subunit	ribosomal	RNA	gene	
+MH469472.1	Uncultured	Glomeromycotina	isolate	G8375	small	subunit	ribosomal	RNA	gene	
+AM040316.1	Glomus	claroideum	partial	25S	rRNA	gene	
+AY639359.1	Uncultured	Glomeromycotina	clone	6.10	28S	large	subunit	ribosomal	RNA	gene	
+MF542290.1	Uncultured	Glomeraceae	isolate	SM5	clone	5	small	subunit	ribosomal	RNA	gene	
+KC411033.1	Uncultured	Glomerales	clone	H11_17	large	subunit	ribosomal	RNA	gene	
+AB561111.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+MT765453.1	Dominikia	sp.	isolate	ASV_159	small	subunit	ribosomal	RNA	gene	
+JX683758.1	Uncultured	Diversisporaceae	clone	Agro-27-S	28S	ribosomal	RNA	gene	
+MT765664.1	Rhizoglomus	sp.	isolate	ASV_370	small	subunit	ribosomal	RNA	gene	
+EU747844.1	Uncultured	glomeromycete	clone	ARMO15.3	18S	ribosomal	RNA	gene	
+GQ896284.1	Uncultured	Glomeromycota	clone	I1A2	25S	ribosomal	RNA	gene	
+AB665515.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+LR730766.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+MT765552.1	Paraglomus	sp.	isolate	ASV_258	small	subunit	ribosomal	RNA	gene	
+KF849628.1	Uncultured	Paraglomus	clone	AM148	18S	ribosomal	RNA	gene	
+HQ128638.1	Uncultured	Glomeromycota	clone	IIA1a20	25S	ribosomal	RNA	gene	
+HE858415.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+AB561129.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+LR730700.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+MG664504.1	Uncultured	Glomeromycotina	clone	T40126	small	subunit	ribosomal	RNA	gene	
+KC410882.1	Uncultured	Glomerales	clone	H1_14	large	subunit	ribosomal	RNA	gene	
+MH469405.1	Uncultured	Glomeromycotina	isolate	G8264	small	subunit	ribosomal	RNA	gene	
+MT765653.1	Dominikia	sp.	isolate	ASV_359	small	subunit	ribosomal	RNA	gene	
+AB369815.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+KJ701452.1	Uncultured	Glomus	clone	AM509	18S	ribosomal	RNA	gene	
+MT765451.1	Glomeraceae	sp.	isolate	ASV_157	small	subunit	ribosomal	RNA	gene	
+LR730959.1	Rhizophagus	intraradices	28S	large	subunit	ribosomal	RNA	gene	
+KC411326.1	Uncultured	Glomerales	clone	B14_05	large	subunit	ribosomal	RNA	gene	
+KY630235.1	Pervetustus	simplex	isolate	49D	small	subunit	ribosomal	RNA	gene	
+FN547592.1	Gigaspora	rosea	18S	rRNA	gene	(partial)	
+KX345938.1	Sacculospora	felinovii	isolate	Gf1	18S	ribosomal	RNA	gene	
+LR730761.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+FN547672.1	Glomus	versiforme	18S	rRNA	gene	(partial)	
+AB710218.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+KC515564.1	Uncultured	Acaulosporaceae	clone	Gra-113	28S	ribosomal	RNA	gene	
+MH469315.1	Uncultured	Glomeromycotina	isolate	T8524	small	subunit	ribosomal	RNA	gene	
+AY394693.1	Uncultured	ascomycete	clone	K31-18	28S	ribosomal	RNA	gene	
+AB935548.1	Uncultured	Claroideoglomus	gene	for	28S	ribosomal	RNA	
+MG664507.1	Uncultured	Glomeromycotina	clone	T31141	small	subunit	ribosomal	RNA	gene	
+DQ400282.1	Uncultured	Glomus	clone	S2R2.32	18S	ribosomal	RNA	gene	
+AY639349.1	Uncultured	Glomeromycotina	clone	4.2	28S	large	subunit	ribosomal	RNA	gene	
+MT765297.1	Paraglomus	sp.	isolate	ASV_3	small	subunit	ribosomal	RNA	gene	
+AB369739.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+KC411185.1	Uncultured	Glomerales	clone	B04_15	large	subunit	ribosomal	RNA	gene	
+LT993140.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+KF206553.1	Uncultured	Glomeromycota	clone	Gra-120	18S	ribosomal	RNA	gene	
+MH982449.1	Uncultured	Archaeosporales	clone	CL0034	small	subunit	ribosomal	RNA	gene	
+AY394694.1	Uncultured	Glomus	clone	K31-1	28S	ribosomal	RNA	gene	
+MK036782.1	Sclerocarpum	amazonicum	isolate	Sa5	small	subunit	ribosomal	RNA	gene	
+AJ854606.1	Glomus	sp.	MUCL	43205	28S	rRNA	gene	
+EU380084.1	Uncultured	glomeromycete	from	green	needle	grass	2_38	25S	ribosomal	RNA	gene	
+MF590008.1	Uncultured	Acaulospora	clone	MG-1-10-04	small	subunit	ribosomal	RNA	gene	
+KC410902.1	Uncultured	Glomerales	clone	H1_39	large	subunit	ribosomal	RNA	gene	
+LR730624.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+MH982565.1	Uncultured	Archaeosporales	clone	CL0216	small	subunit	ribosomal	RNA	gene	
+LR730883.1	Acaulospora	laevis	28S	large	subunit	ribosomal	RNA	gene	
+AY639352.1	Uncultured	Glomeromycotina	clone	6.1	28S	large	subunit	ribosomal	RNA	gene	
+KX643920.1	Uncultured	fungus	clone	C7R12_33	28S	ribosomal	RNA	gene	
+CAJVPL010007859.1	Ambispora	gerdemannii	strain	MT106	genome	assembly	
+LT993098.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+AB369921.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+FN547524.1	Ambispora	appendicula	18S	rRNA	gene	(partial)	
+AB369769.1	Uncultured	Scutellospora	gene	for	28S	ribosomal	RNA	
+MT765587.1	Paraglomus	sp.	isolate	ASV_293	small	subunit	ribosomal	RNA	gene	
+AY394690.1	Uncultured	ascomycete	clone	K24-31	28S	ribosomal	RNA	gene	
+KP191471.1	Acaulospora	ignota	isolate	268-7	18S	ribosomal	RNA	gene	
+JX276894.1	Uncultured	Glomeromycota	clone	KP_C036	18S	ribosomal	RNA	gene	
+MT765298.1	Glomeraceae	sp.	isolate	ASV_4	small	subunit	ribosomal	RNA	gene	
+MT765637.1	Paraglomus	sp.	isolate	ASV_343	small	subunit	ribosomal	RNA	gene	
+AB610833.1	Uncultured	Glomeromycota	gene	for	28S	ribosomal	RNA	
+LR731339.1	Dentiscutata	heterogama	28S	large	subunit	ribosomal	RNA	gene	
+JF439129.1	Paraglomus	occultum	isolate	G13-6	18S	ribosomal	RNA	gene	
+AF396792.1	Glomus	intraradices	isolate	RWI_141	28S	ribosomal	RNA	
+AJ854591.1	Glomus	sp.	MUCL	43203	28S	rRNA	gene	
+MH469335.1	Uncultured	Glomeromycotina	isolate	XG7464	small	subunit	ribosomal	RNA	gene	
+MT765728.1	Diversispora	sp.	isolate	ASV_434	small	subunit	ribosomal	RNA	gene	
+KC410894.1	Uncultured	Glomerales	clone	H1_31	large	subunit	ribosomal	RNA	gene	
+HG422733.1	Acaulospora	spinosissima	genomic	DNA	containing	18S	rRNA	gene	
+AY394695.1	Uncultured	Hymenoscyphus	clone	K24-11	28S	ribosomal	RNA	gene	
+AB750745.1	Uncultured	Funneliformis	gene	for	28S	ribosomal	RNA	
+AB561116.1	Uncultured	Diversispora	gene	for	28S	ribosomal	RNA	
+KT250824.1	Paraglomus	occultum	isolate	VA102A	clone	J019b	28S	ribosomal	RNA	gene	
+AB369808.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+HQ895789.2	Uncultured	Glomeromycota	clone	G11__10	18S	ribosomal	RNA	gene	
+MH469473.1	Uncultured	Glomeromycotina	isolate	T82008	small	subunit	ribosomal	RNA	gene	
+MG664363.1	Uncultured	Glomeromycotina	clone	G40552	small	subunit	ribosomal	RNA	gene	
+KC166253.1	Paraglomus	occultum	clone	SG19a	28S	ribosomal	RNA	gene	
+FN547529.1	Ambispora	appendicula	18S	rRNA	gene	(partial)	
+MT765309.1	Glomeraceae	sp.	isolate	ASV_15	small	subunit	ribosomal	RNA	gene	
+JX276891.1	Uncultured	Glomeromycota	clone	KP_C031	18S	ribosomal	RNA	gene	
+HF970313.1	Uncultured	Rhizophagus	genomic	DNA	containing	18S	rRNA	gene	
+HG995550.1	uncultured	Glomerales	genomic	DNA	sequence	contains	18S	rRNA	gene	
+MH469471.1	Uncultured	Glomeromycotina	isolate	G8305	small	subunit	ribosomal	RNA	gene	
+HQ895806.2	Uncultured	Glomeromycota	clone	G19__27	18S	ribosomal	RNA	gene	
+KC411454.1	Uncultured	Glomerales	clone	B18_38	large	subunit	ribosomal	RNA	gene	
+FR865450.1	Entrophospora	baltica	genomic	DNA	containing	18S	rRNA	gene	
+MT765710.1	Glomeraceae	sp.	isolate	ASV_416	small	subunit	ribosomal	RNA	gene	
+AJ972467.1	Glomus	walkeri	partial	18S	rRNA	gene	
+MT765691.1	Paraglomus	sp.	isolate	ASV_397	small	subunit	ribosomal	RNA	gene	
+MG664413.1	Uncultured	Glomeromycotina	clone	G40137	small	subunit	ribosomal	RNA	gene	
+MT765667.1	Glomus	macrocarpum	isolate	ASV_373	small	subunit	ribosomal	RNA	gene	
+MT765506.1	Glomeraceae	sp.	isolate	ASV_212	small	subunit	ribosomal	RNA	gene	
+LT964712.1	Acaulospora	koskei	genomic	DNA	sequence	contains	18S	rRNA	gene	
+HE775326.1	Uncultured	Glomeraceae	18S	rRNA	gene	(partial)	
+AB369766.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+HE858404.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+AM295494.1	Paraglomus	laccatum	18S	rRNA	gene	(partial)	
+AJ854638.1	Glomus	sp.	MUCL	43196	28S	rRNA	gene	
+MT765690.1	Diversispora	sp.	isolate	ASV_396	small	subunit	ribosomal	RNA	gene	
+KC411194.1	Uncultured	Glomerales	clone	B04_25	large	subunit	ribosomal	RNA	gene	
+KC411038.1	Uncultured	Glomerales	clone	H11_23	large	subunit	ribosomal	RNA	gene	
+KT378097.1	Uncultured	Glomeromycotina	clone	PH2_46	18S	ribosomal	RNA	gene	
+FR871389.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+LC682550.1	Diversispora	epigaea	CE2105	genes	for	18S	rRNA	
+CAGKOT010000028.1	Rhizophagus	irregularis	isolate	CHB12	genome	assembly	
+LR731224.1	Acaulospora	laevis	28S	large	subunit	ribosomal	RNA	gene	
+MH469387.1	Uncultured	Glomeromycotina	isolate	G9430	small	subunit	ribosomal	RNA	gene	
+HF970337.1	Uncultured	Claroideoglomus	genomic	DNA	containing	18S	rRNA	gene	
+AY639331.1	Glomus	cf.	claroideum	clone	46.1	28S	large	subunit	ribosomal	RNA	gene	
+KC410930.1	Uncultured	Glomerales	clone	H3_08	large	subunit	ribosomal	RNA	gene	
+LR730913.1	Rhizophagus	intraradices	28S	large	subunit	ribosomal	RNA	gene	
+AB369770.1	Uncultured	Gigaspora	gene	for	28S	ribosomal	RNA	
+HG995738.1	uncultured	Glomerales	genomic	DNA	sequence	contains	18S	rRNA	gene	
+FR871358.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+MH469316.1	Uncultured	Glomeromycotina	isolate	T6520	small	subunit	ribosomal	RNA	gene	
+JX276906.1	Uncultured	Glomeromycota	clone	KP_C082	18S	ribosomal	RNA	gene	
+AB547175.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+KC411466.1	Uncultured	Glomerales	clone	B18_50	large	subunit	ribosomal	RNA	gene	
+MN081578.1	Glomeromycotina	sp.	clone	1	small	subunit	ribosomal	RNA	gene	
+KY242703.1	Uncultured	Paraglomus	clone	SS-C374	small	subunit	ribosomal	RNA	gene	
+AB561136.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+AB547185.1	Uncultured	Acaulospora	gene	for	28S	ribosomal	RNA	
+AB369761.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+KC411248.1	Uncultured	Glomerales	clone	B08_28	large	subunit	ribosomal	RNA	gene	
+AB547172.1	Uncultured	Scutellospora	gene	for	28S	ribosomal	RNA	
+HG425960.1	Uncultured	Claroideoglomeraceae	genomic	DNA	containing	18S	rRNA	gene	
+KT378077.1	Uncultured	Glomeromycotina	clone	SL3_77	18S	ribosomal	RNA	gene	
+KT378113.1	Uncultured	Glomeromycotina	clone	PL3_31	18S	ribosomal	RNA	gene	
+MG664465.1	Uncultured	Glomeromycotina	clone	T70240	small	subunit	ribosomal	RNA	gene	
+DQ400248.1	Uncultured	Archaeospora	clone	LSU1.18	18S	ribosomal	RNA	gene	
+OK356206.1	Acaulospora	excavata	clone	12	small	subunit	ribosomal	RNA	gene	
+MH469358.1	Uncultured	Glomeromycotina	isolate	T8330	small	subunit	ribosomal	RNA	gene	
+HE858417.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+KM207928.1	Uncultured	Glomeromycota	clone	RHS2_10	18S	ribosomal	RNA	gene	
+KF836905.1	Glomus	sp.	26	ZHNL-2013a	isolate	D1_41	18S	ribosomal	RNA	gene	
+KC411264.1	Uncultured	Glomerales	clone	B08_45	large	subunit	ribosomal	RNA	gene	
+MT765413.1	Paraglomus	laccatum	isolate	ASV_119	small	subunit	ribosomal	RNA	gene	
+KM056652.1	Glomus	tetrastratosum	clone	276-11	18S	ribosomal	RNA	gene	
+JQ218220.1	Uncultured	Glomus	clone	37_13_P1	18S	ribosomal	RNA	gene	
+MT765665.1	Rhizoglomus	sp.	isolate	ASV_371	small	subunit	ribosomal	RNA	gene	
+JQ218225.1	Uncultured	Diversispora	clone	37_7_P1	18S	ribosomal	RNA	gene	
+CAJVPY010015899.1	Dentiscutata	erythropus	strain	MA453B	genome	assembly	
+MK036788.1	Diversispora	sporocarpia	isolate	Ds5	small	subunit	ribosomal	RNA	gene	
+KC410886.1	Uncultured	Glomerales	clone	H1_20	large	subunit	ribosomal	RNA	gene	
+FR871394.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+KC411094.1	Uncultured	Glomerales	clone	H17_24	large	subunit	ribosomal	RNA	gene	
+HG421736.1	Acaulospora	sp.	JP-2013	genomic	DNA	containing	18S	rRNA	gene	
+CAMKVN010001268.1	Funneliformis	geosporum	strain	wild	A	genome	assembly	
+HG532010.1	Corymbiglomus	sp.	SG-2013	partial	28S	rRNA	gene	
+FR871353.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+AY639343.1	Glomus	cf.	claroideum	clone	53.1	28S	large	subunit	ribosomal	RNA	gene	
+HF970297.1	Uncultured	Diversispora	genomic	DNA	containing	18S	rRNA	gene	
+AJ854634.1	Glomus	sp.	MUCL	43196	28S	rRNA	gene	
+AJ854637.1	Glomus	sp.	MUCL	43196	28S	rRNA	gene	
+LR730674.1	Glomus	sp.	(unid)	28S	large	subunit	ribosomal	RNA	gene	
+MT765553.1	Paraglomus	sp.	isolate	ASV_259	small	subunit	ribosomal	RNA	gene	
+AB935526.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+MN081006.1	Glomeromycotina	sp.	clone	9	small	subunit	ribosomal	RNA	gene	
+AB710220.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+JX096616.1	Uncultured	Glomeromycota	clone	16_50	18S	ribosomal	RNA	gene	
+DQ273827.1	Paraglomus	occultum	isolate	AFTOL-ID	844	28S	ribosomal	RNA	gene	
+KC411204.1	Uncultured	Glomerales	clone	B04_37	large	subunit	ribosomal	RNA	gene	
+FN547589.1	Gigaspora	rosea	18S	rRNA	gene	(partial)	
+GQ229223.1	Gigaspora	gigantea	isolate	MN922A	25S	ribosomal	RNA	gene	
+MG664347.1	Uncultured	Glomeromycotina	clone	G51209	small	subunit	ribosomal	RNA	gene	
+AY639308.1	Uncultured	Glomus	clone	8.3	28S	large	subunit	ribosomal	RNA	gene	
+AY639160.1	Funneliformis	mosseae	clone	57.1	28S	large	subunit	ribosomal	RNA	gene	
+MG664502.1	Uncultured	Glomeromycotina	clone	T51305	small	subunit	ribosomal	RNA	gene	
+CAJVPJ010001905.1	Paraglomus	occultum	strain	IA702	genome	assembly	
+FM876799.1	Gigaspora	sp.	W2992	18S	rRNA	gene	(partial)	
+HE775285.1	Uncultured	Glomeraceae	18S	rRNA	gene	(partial)	
+JF439145.1	Glomus	sp.	18	SUN-2011	isolate	f9-5	18S	ribosomal	RNA	gene	
+HF968971.1	Gigaspora	margarita	partial	28S	rRNA	gene	
+LC681920.1	Rhizophagus	irregularis	CE1405	genes	for	18S	rRNA	
+KY242688.1	Uncultured	Paraglomus	clone	TS-A1J	small	subunit	ribosomal	RNA	gene	
+MH469308.1	Uncultured	Glomeromycotina	isolate	XG8526	small	subunit	ribosomal	RNA	gene	
+MT765519.1	Rhizoglomus	sp.	isolate	ASV_225	small	subunit	ribosomal	RNA	gene	
+MG664463.1	Uncultured	Glomeromycotina	clone	T40511	small	subunit	ribosomal	RNA	gene	
+LR731118.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+MT765464.1	Paraglomus	sp.	isolate	ASV_170	small	subunit	ribosomal	RNA	gene	
+KC411320.1	Uncultured	Glomerales	clone	B12_55	large	subunit	ribosomal	RNA	gene	
+KP191477.1	Claroideoglomus	hanlinii	isolate	251-2	18S	ribosomal	RNA	gene	
+KM208099.1	Uncultured	Glomeromycota	clone	RLS1_12	18S	ribosomal	RNA	gene	
+KC411325.1	Uncultured	Glomerales	clone	B14_04	large	subunit	ribosomal	RNA	gene	
+AJ854575.1	Glomus	intraradices	28S	rRNA	gene	
+KF849676.1	Uncultured	Glomus	clone	AM196	18S	ribosomal	RNA	gene	
+MW794283.1	Glomeromycota	sp.	clone	1	small	subunit	ribosomal	RNA	gene	
+KC411188.1	Uncultured	Glomerales	clone	B04_19	large	subunit	ribosomal	RNA	gene	
+CAJVPU010003184.1	Dentiscutata	heterogama	strain	IL203A	genome	assembly	
+KY114655.1	Glomeromycotina	sp.	isolate	BG2_18	18S	ribosomal	RNA	gene	
+HF968901.1	Gigaspora	margarita	genomic	DNA	containing	18S	rRNA	gene	
+JQ029758.1	Uncultured	Glomeromycota	clone	13	large	subunit	ribosomal	RNA	gene	
+HE775321.1	Uncultured	Diversisporaceae	18S	rRNA	gene	(partial)	
+KC222878.1	Uncultured	Glomus	clone	E3-EXT-B-M13R	18S	ribosomal	RNA	gene	
+HF970225.1	Uncultured	Diversispora	genomic	DNA	containing	18S	rRNA	gene	
+MT765409.1	Paraglomus	brasilianum	isolate	ASV_115	small	subunit	ribosomal	RNA	gene	
+KC515454.1	Uncultured	Ambisporaceae	clone	Gra-3	28S	ribosomal	RNA	gene	
+HF970216.1	Uncultured	Archaeospora	genomic	DNA	containing	18S	rRNA	gene	
+MT765604.1	Diversispora	sp.	isolate	ASV_310	small	subunit	ribosomal	RNA	gene	
+AB369726.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+LR730565.1	Paraglomus	brasilianum	28S	large	subunit	ribosomal	RNA	gene	
+KP756474.1	Diversispora	sp.	SM5	clone	1	18S	ribosomal	RNA	gene	
+HG969332.1	Uncultured	Archaeospora	genomic	DNA	containing	18S	rRNA	gene	
+JF439133.1	Glomus	etunicatum	isolate	Ge-2	18S	ribosomal	RNA	gene	
+KY114717.1	Glomeromycotina	sp.	isolate	XF13_22	18S	ribosomal	RNA	gene	
+KT378087.1	Uncultured	Glomeromycotina	clone	SL2_22	18S	ribosomal	RNA	gene	
+MN081579.1	Glomeromycotina	sp.	clone	2	small	subunit	ribosomal	RNA	gene	
+CAJVPI010002398.1	Paraglomus	brasilianum	strain	BR232B	genome	assembly	
+AB369773.2	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+LR730670.1	Dentiscutata	heterogama	28S	large	subunit	ribosomal	RNA	gene	
+LC416118.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+FR750363.1	Glomus	macrocarpum	18S	rRNA	gene	(partial)	
+LR730969.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+CAJVQB010112542.1	Gigaspora	margarita	strain	120-4	pot	B	10/14	genome	assembly	
+MN130951.1	Rhizoglomus	dalpeae	clone	rd10	small	subunit	ribosomal	RNA	gene	
+LR731318.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+FR871373.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+MH469332.1	Uncultured	Glomeromycotina	isolate	XG7433	small	subunit	ribosomal	RNA	gene	
+LC416113.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+JX096605.1	Uncultured	Glomeromycota	clone	11_10	18S	ribosomal	RNA	gene	
+AF396795.1	Glomus	claroideum	isolate	SF_133	28S	ribosomal	RNA	
+FM876780.1	Acaulospora	laevis	18S	rRNA	gene	(partial)	
+FR750153.1	Acaulospora	spinosa	18S	rRNA	gene	(partial)	
+FR750161.1	Dentiscutata	heterogama	18S	rRNA	gene	(partial)	
+KF849672.1	Uncultured	Glomus	clone	AM192	18S	ribosomal	RNA	gene	
+MT765493.1	Glomus	macrocarpum	isolate	ASV_199	small	subunit	ribosomal	RNA	gene	
+KY630237.1	Pervetustus	simplex	isolate	B5	small	subunit	ribosomal	RNA	gene	
+KF849526.1	Uncultured	Acaulospora	clone	AM46	18S	ribosomal	RNA	gene	
+KJ564138.1	Kamienskia	bistrata	strain	205-1	clone	4	18S	ribosomal	RNA	gene	
+AB370889.1	Glomus	sp.	HR1	gene	for	28S	ribosomal	RNA	
+FR750192.1	Rhizophagus	irregularis	18S	rRNA	gene	(partial)	
+AB561092.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+AB369744.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+KY242678.1	Uncultured	Paraglomus	clone	SS-C372	small	subunit	ribosomal	RNA	gene	
+HQ895805.2	Uncultured	Glomeromycota	clone	G19__19	18S	ribosomal	RNA	gene	
+KJ484696.1	Uncultured	Glomeromycota	clone	H_32	18S	ribosomal	RNA	gene	
+HG996315.1	uncultured	Glomerales	genomic	DNA	sequence	contains	18S	rRNA	gene	
+LN884301.1	Glomeromycota	sp.	1	ICS-2015	genomic	DNA	sequence	contains	18S	rRNA	gene	
+LR730678.1	Dentiscutata	heterogama	28S	large	subunit	ribosomal	RNA	gene	
+EU380056.1	Uncultured	glomeromycete	from	green	needle	grass	2_10	25S	ribosomal	RNA	gene	
+AB935530.1	Uncultured	Glomeraceae	gene	for	28S	ribosomal	RNA	
+AJ854586.1	Glomus	sp.	MUCL	43203	28S	rRNA	gene	
+HF968999.1	Rhizophagus	irregularis	partial	28S	rRNA	gene	
+MG664438.1	Uncultured	Glomeromycotina	clone	G70848	small	subunit	ribosomal	RNA	gene	
+LR731087.1	Rhizophagus	intraradices	28S	large	subunit	ribosomal	RNA	gene	
+MT765482.1	Diversispora	sp.	isolate	ASV_188	small	subunit	ribosomal	RNA	gene	
+LR731771.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+JX683755.1	Uncultured	Diversisporaceae	clone	Agro-24-T	28S	ribosomal	RNA	gene	
+AB547178.1	Uncultured	Glomeromycota	gene	for	28S	ribosomal	RNA	
+FR865447.1	Entrophospora	nevadensis	genomic	DNA	containing	18S	rRNA	gene	
+KC411360.1	Uncultured	Glomerales	clone	B14_50	large	subunit	ribosomal	RNA	gene	
+KC411049.1	Uncultured	Glomerales	clone	H11_44	large	subunit	ribosomal	RNA	gene	
+MH702390.1	Uncultured	Glomeromycotina	clone	Cu2_D6	small	subunit	ribosomal	RNA	gene	
+MT765458.1	Diversispora	sp.	isolate	ASV_164	small	subunit	ribosomal	RNA	gene	
+JF439161.1	Glomus	sp.	9	SUN-2011	isolate	08_48_1	18S	ribosomal	RNA	gene	
+KT444720.1	Diversispora	slowinskiensis	isolate	gl14a3	18S	ribosomal	RNA	gene	
+JX276881.1	Uncultured	Glomeromycota	clone	KP_C010	18S	ribosomal	RNA	gene	
+AB369816.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+KC166262.1	Ambispora	leptoticha	clone	553a	28S	ribosomal	RNA	gene	
+HG425912.1	Uncultured	Glomus	genomic	DNA	containing	18S	rRNA	gene	
+FM876818.1	Glomus	versiforme	18S	rRNA	gene	(partial)	
+HG425935.1	Uncultured	Diversispora	genomic	DNA	containing	18S	rRNA	gene	
+KF206525.1	Uncultured	Glomerales	clone	Gra-92	18S	ribosomal	RNA	gene	
+KC411076.1	Uncultured	Glomerales	clone	H17_05	large	subunit	ribosomal	RNA	gene	
+AB561131.1	Uncultured	Glomeromycota	gene	for	28S	ribosomal	RNA	
+KM879834.1	Uncultured	Glomeromycota	clone	S_C321.05	large	subunit	ribosomal	RNA	gene	
+KY114626.1	Glomeromycotina	sp.	isolate	BG14_2	18S	ribosomal	RNA	gene	
+MG664420.1	Uncultured	Glomeromycotina	clone	G41130	small	subunit	ribosomal	RNA	gene	
+KF849668.1	Uncultured	Glomus	clone	AM188	18S	ribosomal	RNA	gene	
+MT765554.1	Nanoglomus	sp.	isolate	ASV_260	small	subunit	ribosomal	RNA	gene	
+AB369758.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+AF396797.1	Glomus	intraradices	isolate	SI_141	28S	ribosomal	RNA	
+MG664372.1	Uncultured	Glomeromycotina	clone	G3555	small	subunit	ribosomal	RNA	gene	
+LR730851.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+FR873156.1	Uncultured	Paraglomus	genomic	DNA	containing	18S	rRNA	gene	
+MT765603.1	Glomeraceae	sp.	isolate	ASV_309	small	subunit	ribosomal	RNA	gene	
+MG710517.1	Microdominikia	litorea	isolate	Dl-10	small	subunit	ribosomal	RNA	gene	
+LR730626.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+LR730779.1	Rhizophagus	intraradices	28S	large	subunit	ribosomal	RNA	gene	
+CAJVPS010008685.1	Ambispora	leptoticha	strain	FL130A	genome	assembly	
+EU380060.1	Uncultured	glomeromycete	from	green	needle	grass	2_14	25S	ribosomal	RNA	gene	
+KC410890.1	Uncultured	Glomerales	clone	H1_24	large	subunit	ribosomal	RNA	gene	
+MN384876.1	Glomeromycota	sp.	isolate	Rv7	small	subunit	ribosomal	RNA	gene	
+FR750012.1	Dentiscutata	heterogama	18S	rRNA	gene	(partial)	
+MH469350.1	Uncultured	Glomeromycotina	isolate	G10510	small	subunit	ribosomal	RNA	gene	
+MG664508.1	Uncultured	Glomeromycotina	clone	T70868	small	subunit	ribosomal	RNA	gene	
+KF849627.1	Uncultured	Paraglomus	clone	AM147	18S	ribosomal	RNA	gene	
+OL442704.1	Rhizophagus	irregularis	clone	Q6NATIVEITN10	large	subunit	ribosomal	RNA	gene	
+AJ972466.1	Glomus	drummondi	partial	18S	rRNA	gene	
+JX096578.1	Uncultured	Glomeromycota	clone	2_14	18S	ribosomal	RNA	gene	
+KX355821.1	Sacculospora	baltica	strain	E101-10	18S	ribosomal	RNA	gene	
+KT378096.1	Uncultured	Glomeromycotina	clone	SM2_66	18S	ribosomal	RNA	gene	
+AB610837.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+FR750149.1	Scutellospora	spinosissima	18S	rRNA	gene	(partial)	
+MG459216.1	Cetraspora	armeniaca	isolate	Ce-7	18S	ribosomal	RNA	gene	
+KC411199.1	Uncultured	Glomerales	clone	B04_31	large	subunit	ribosomal	RNA	gene	
+EF581861.1	Glomus	aurantium	clone	Ga.4	28S	large	subunit	ribosomal	RNA	gene	
+JQ029755.1	Uncultured	Glomus	clone	22	large	subunit	ribosomal	RNA	gene	
+KP756453.1	Acaulospora	mellea	isolate	SR2	clone	1	18S	ribosomal	RNA	gene	
+KY114669.1	Glomeromycotina	sp.	isolate	XF10_4	18S	ribosomal	RNA	gene	
+MT765574.1	Microdominikia	litorea	isolate	ASV_280	small	subunit	ribosomal	RNA	gene	
+MG664421.1	Uncultured	Glomeromycotina	clone	G3540	small	subunit	ribosomal	RNA	gene	
+HE775319.1	Uncultured	Diversisporaceae	18S	rRNA	gene	(partial)	
+MG664466.1	Uncultured	Glomeromycotina	clone	T31102	small	subunit	ribosomal	RNA	gene	
+JF439094.1	Glomus	tortuosum	isolate	G14-1	18S	ribosomal	RNA	gene	
+MG664342.1	Uncultured	Glomeromycotina	clone	G3552	small	subunit	ribosomal	RNA	gene	
+LT993214.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+KF836943.1	Glomus	sp.	11	ZHNL-2013h	isolate	E2_75	18S	ribosomal	RNA	gene	
+HE775302.1	Uncultured	Glomeraceae	18S	rRNA	gene	(partial)	
+MT765533.1	Glomeraceae	sp.	isolate	ASV_239	small	subunit	ribosomal	RNA	gene	
+FR871375.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+JX683754.1	Uncultured	Diversisporaceae	clone	Agro-23-ST	28S	ribosomal	RNA	gene	
+HF970233.1	Uncultured	Claroideoglomus	genomic	DNA	containing	18S	rRNA	gene	
+KC411224.1	Uncultured	Glomerales	clone	B08_02	large	subunit	ribosomal	RNA	gene	
+LN736023.1	Acaulospora	foveata	partial	18S	rRNA	gene	
+MH469366.1	Uncultured	Glomeromycotina	isolate	T7414	small	subunit	ribosomal	RNA	gene	
+AB561109.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+LR731467.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+KT378084.1	Uncultured	Glomeromycotina	clone	PL2_26	18S	ribosomal	RNA	gene	
+KC411195.1	Uncultured	Glomerales	clone	B04_26	large	subunit	ribosomal	RNA	gene	
+KC411421.1	Uncultured	Glomerales	clone	B16_53	large	subunit	ribosomal	RNA	gene	
+JX276903.1	Uncultured	Glomeromycota	clone	KP_C071	18S	ribosomal	RNA	gene	
+OP341196.1	Rhizophagus	irregularis	clone	JRM1904905	small	subunit	ribosomal	RNA	gene	
+MH469429.1	Uncultured	Glomeromycotina	isolate	G8321	small	subunit	ribosomal	RNA	gene	
+AB369759.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+FR871378.1	Uncultured	Diversispora	partial	28S	rRNA	gene	
+MG664343.1	Uncultured	Glomeromycotina	clone	G70210	small	subunit	ribosomal	RNA	gene	
+KC411127.1	Uncultured	Glomerales	clone	H19_05	large	subunit	ribosomal	RNA	gene	
+KJ484687.1	Uncultured	Glomeromycota	clone	Y_60	18S	ribosomal	RNA	gene	
+OL662890.1	Glomus	sp.	isolate	LP6	small	subunit	ribosomal	RNA	gene	
+MT765324.1	Microdominikia	litorea	isolate	ASV_30	small	subunit	ribosomal	RNA	gene	
+KC411096.1	Uncultured	Glomerales	clone	H17_26	large	subunit	ribosomal	RNA	gene	
+LR731012.1	Rhizophagus	proliferus	28S	large	subunit	ribosomal	RNA	gene	
+HG425903.1	Uncultured	Glomeraceae	genomic	DNA	containing	18S	rRNA	gene	
+GQ896308.1	Uncultured	Glomeromycota	clone	I1A16	25S	ribosomal	RNA	gene	
+JF439127.1	Glomus	etunicatum	isolate	f34-3	18S	ribosomal	RNA	gene	
+OL661636.1	Acaulospora	sp.	clone	Spore6	small	subunit	ribosomal	RNA	gene	
+HG518627.1	Redeckera	megalocarpum	18S	rRNA	gene	(partial)	
+DQ400275.1	Uncultured	Paraglomus	clone	S2R2.120	18S	ribosomal	RNA	gene	
+FM876825.1	Kuklospora	kentinensis	18S	rRNA	gene	(partial)	
+KY114676.1	Glomeromycotina	sp.	isolate	BG10_26	18S	ribosomal	RNA	gene	
+FR750367.1	Glomus	macrocarpum	18S	rRNA	gene	(partial)	
+EU380061.1	Uncultured	glomeromycete	from	green	needle	grass	2_15	25S	ribosomal	RNA	gene	
+FR871368.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+LR731009.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+AB547188.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+KM208477.1	Uncultured	Glomeromycota	clone	SHN3_33	18S	ribosomal	RNA	gene	
+MT765630.1	Dominikia	sp.	isolate	ASV_336	small	subunit	ribosomal	RNA	gene	
+MT765565.1	Glomus	macrocarpum	isolate	ASV_271	small	subunit	ribosomal	RNA	gene	
+KM208079.1	Uncultured	Glomeromycota	clone	SHN1_37	18S	ribosomal	RNA	gene	
+DQ469120.1	Rhizophagus	cf.	intraradices	HG-2010	isolate	iv1	clone	iv1.5	28S	large	subunit	ribosomal	RNA	gene	
+OL684645.1	Diversispora	sp.	FM-2021a	clone	Dae_407_5	small	subunit	ribosomal	RNA	gene	
+HG518628.1	Redeckera	megalocarpum	18S	rRNA	gene	(partial)	
+FR750196.1	Rhizophagus	irregularis	18S	rRNA	gene	(partial)	
+AB547170.1	Uncultured	Gigaspora	gene	for	28S	ribosomal	RNA	
+KC410935.1	Uncultured	Glomerales	clone	H3_13	large	subunit	ribosomal	RNA	gene	
+KF206536.1	Uncultured	Glomerales	clone	Gra-103	18S	ribosomal	RNA	gene	
+LR730702.1	Rhizophagus	proliferus	28S	large	subunit	ribosomal	RNA	gene	
+FN547667.1	Glomus	versiforme	18S	rRNA	gene	(partial)	
+AF396785.1	Glomus	claroideum	isolate	RMF_133	28S	ribosomal	RNA	
+MT765583.1	Nanoglomus	sp.	isolate	ASV_289	small	subunit	ribosomal	RNA	gene	
+KC410989.1	Uncultured	Glomerales	clone	H9_19	large	subunit	ribosomal	RNA	gene	
+FN825901.1	Acaulospora	brasiliensis	genomic	DNA	containing	18S	rRNA	gene	(partial)	
+KC411451.1	Uncultured	Glomerales	clone	B18_35	large	subunit	ribosomal	RNA	gene	
+MF589999.1	Uncultured	Glomus	clone	MG-1-10-47	small	subunit	ribosomal	RNA	gene	
+OL679961.1	Paraglomus	sp.	clone	LP21	small	subunit	ribosomal	RNA	gene	
+AB643635.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+HE775315.1	Uncultured	Claroideoglomus	18S	rRNA	gene	(partial)	
+KC411237.1	Uncultured	Glomerales	clone	B08_16	large	subunit	ribosomal	RNA	gene	
+JN937172.1	Glomeromycota	sp.	OTU19	DJMC-2012	isolate	spore	0_14_2	28S	ribosomal	RNA	gene	
+HG425992.1	Uncultured	Claroideoglomus	genomic	DNA	containing	18S	rRNA	gene	
+MT765642.1	Dominikia	sp.	isolate	ASV_348	small	subunit	ribosomal	RNA	gene	
+MT765682.1	Rhizoglomus	sp.	isolate	ASV_388	small	subunit	ribosomal	RNA	gene	
+KF849624.1	Uncultured	Paraglomus	clone	AM144	18S	ribosomal	RNA	gene	
+AY639175.1	Entrophospora	claroidea	clone	1.1	28S	large	subunit	ribosomal	RNA	gene	
+HM570008.1	Uncultured	Acaulospora	clone	ZHwq1-6	18S	ribosomal	RNA	gene	
+JX096579.1	UNVERIFIED_ORG:	Uncultured	Glomeromycota	clone	3_26	18S	ribosomal	RNA	gene	
+AY639261.1	Cetraspora	pellucida	clone	24.1	28S	large	subunit	ribosomal	RNA	gene	
+KF060321.1	Septoglomus	jasnowskae	isolate	206-4	18S	ribosomal	RNA	gene	
+JX096567.1	Uncultured	Glomeromycota	clone	1_4	18S	ribosomal	RNA	gene	
+HG970664.1	Septoglomus	sp.	ZS-2014	genomic	DNA	containing	18S	rRNA	gene	
+KC411186.1	Uncultured	Glomerales	clone	B04_16	large	subunit	ribosomal	RNA	gene	
+HQ857096.1	Glomus	luteum	isolate	SW202-9	clone	5	5.8S	ribosomal	RNA	gene	
+MT765505.1	Paraglomus	laccatum	isolate	ASV_211	small	subunit	ribosomal	RNA	gene	
+KY114638.1	Glomeromycotina	sp.	isolate	BG6_89	18S	ribosomal	RNA	gene	
+FM992388.1	Glomus	proliferum	18S	rRNA	gene	(partial)	
+AM713402.1	Diversispora	sp.	AS-2007a	partial	18S	rRNA	gene	
+KC166266.1	Ambispora	leptoticha	clone	24c	28S	ribosomal	RNA	gene	
+HG938301.1	Dominikia	bernensis	genomic	DNA	containing	18S	rRNA	gene	
+LR731727.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+FN547636.1	Glomus	versiforme	18S	rRNA	gene	(partial)	
+JX096585.1	Uncultured	Glomeromycota	clone	4_58	18S	ribosomal	RNA	gene	
+AJ271925.1	Glomus	sp.	HM-CL4	partial	LSU	gene	for	large	ribosomal	subunit	
+HQ243237.1	Uncultured	Glomus	clone	ZHwq2-445	18S	ribosomal	RNA	gene	
+MZ359657.1	Polonospora	polonica	clone	Pp_8	small	subunit	ribosomal	RNA	gene	
+JQ029748.1	Uncultured	Glomus	clone	18	large	subunit	ribosomal	RNA	gene	
+JX096606.1	Uncultured	Glomeromycota	clone	11_32	18S	ribosomal	RNA	gene	
+FM876837.1	Scutellospora	heterogama	18S	rRNA	gene	(partial)	
+FM876792.1	Acaulospora	sp.	WUM18	18S	rRNA	gene	(partial)	
+FN547548.1	Gigaspora	margarita	18S	rRNA	gene	(partial)	
+JF439101.1	Glomus	intraradices	isolate	B21-9	18S	ribosomal	RNA	gene	
+KP756479.1	Archaeospora	sp.	isolate	TS5	clone	1	18S	ribosomal	RNA	gene	
+CAJVPP010007178.1	Funneliformis	mosseae	strain	87-6	pot	B	2015	genome	assembly	
+MT765596.1	Microdominikia	litorea	isolate	ASV_302	small	subunit	ribosomal	RNA	gene	
+FN808315.1	Acaulospora	sp.	As2	genomic	DNA	containing	5.8S	rRNA	gene	
+JX276907.1	Uncultured	Glomeromycota	clone	KP_C083	18S	ribosomal	RNA	gene	
+KM207869.1	Uncultured	Glomeromycota	clone	SHN1_2	18S	ribosomal	RNA	gene	
+KP756533.1	Glomus	sp.	1	SL-2017	isolate	SR4	clone	2	18S	ribosomal	RNA	gene	
+CAJVPW010038097.1	Cetraspora	pellucida	strain	28	12/20/2015	genome	assembly	
+AY394697.1	Uncultured	Hymenoscyphus	clone	K24-27	28S	ribosomal	RNA	gene	
+OL684647.1	Diversispora	sp.	FM-2021a	clone	Dae_407_3	small	subunit	ribosomal	RNA	gene	
+HE858374.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+HQ895800.2	Uncultured	Glomeromycota	clone	G11_28	18S	ribosomal	RNA	gene	
+KC411286.1	Uncultured	Glomerales	clone	B12_15	large	subunit	ribosomal	RNA	gene	
+KC411432.1	Uncultured	Glomerales	clone	B18_12	large	subunit	ribosomal	RNA	gene	
+LR731083.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+KT378080.1	Uncultured	Glomeromycotina	clone	PM1_19	18S	ribosomal	RNA	gene	
+AB640734.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+CAJVPP010001608.1	Funneliformis	mosseae	strain	87-6	pot	B	2015	genome	assembly	
+JX683761.1	Uncultured	Paraglomus	clone	Agro-30-S	28S	ribosomal	RNA	gene	
+HG425871.1	Uncultured	Rhizophagus	genomic	DNA	containing	18S	rRNA	gene	
+KY114683.1	Glomeromycotina	sp.	isolate	BG6_134	18S	ribosomal	RNA	gene	
+KT444718.1	Diversispora	slowinskiensis	isolate	12	18S	ribosomal	RNA	gene	
+HQ895804.2	Uncultured	Glomeromycota	clone	G19__17	18S	ribosomal	RNA	gene	
+KC410916.1	Uncultured	Glomerales	clone	H1_62	large	subunit	ribosomal	RNA	gene	
+MK275290.1	Dominikia	disticha	strain	S24-21	internal	transcribed	spacer	1	
+CAJVPM010014355.1	Scutellospora	calospora	strain	AU212A	genome	assembly	
+JF717433.1	Uncultured	Glomeromycota	clone	ACMI2_97H5	28S	large	subunit	ribosomal	RNA	gene	
+AB369795.1	Uncultured	Glomeromycota	gene	for	28S	ribosomal	RNA	
+KY114630.1	Glomeromycotina	sp.	isolate	BG17_28	18S	ribosomal	RNA	gene	
+HE858383.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+EU380132.1	Uncultured	glomeromycete	from	switch	grass	2_24	25S	ribosomal	RNA	gene	
+LR731768.1	Rhizophagus	irregularis	28S	large	subunit	ribosomal	RNA	gene	
+JF439167.1	Glomus	constrictum	isolate	08_48_12	18S	ribosomal	RNA	gene	
+JF439131.1	Glomus	aggregatum	isolate	Ga-1	18S	ribosomal	RNA	gene	
+LC416097.1	Uncultured	Glomeromycetes	gene	for	28S	ribosomal	RNA	
+KF849540.1	Uncultured	Paraglomus	clone	AM60	18S	ribosomal	RNA	gene	
+KC411100.1	Uncultured	Glomerales	clone	H17_30	large	subunit	ribosomal	RNA	gene	
+MF590014.1	Uncultured	Archaeospora	clone	MG-2-06-40	small	subunit	ribosomal	RNA	gene	
+HG977199.1	Palaeospora	spainii	genomic	DNA	containing	18S	rRNA	gene	
+KM057073.1	Acaulospora	excavata	clone	2.4	internal	transcribed	spacer	1	
+KJ701460.1	Uncultured	Glomus	clone	AM520	18S	ribosomal	RNA	gene	
+AB610835.1	Uncultured	Acaulospora	gene	for	28S	ribosomal	RNA	
+HM570024.1	Uncultured	Glomus	clone	ZHwq1-22	18S	ribosomal	RNA	gene	
+HF970206.1	Uncultured	Paraglomus	genomic	DNA	containing	18S	rRNA	gene	
+KY114665.1	Glomeromycotina	sp.	isolate	BG10_14	18S	ribosomal	RNA	gene	
+FN547610.1	Scutellospora	gilmorei	18S	rRNA	gene	(partial)	
+FJ790678.1	Glomus	mosseae	isolate	DDAM	25S	ribosomal	RNA	gene	
+KC411060.1	Uncultured	Glomerales	clone	H11_65	large	subunit	ribosomal	RNA	gene	
+AF396791.1	Glomus	clarum	isolate	RWR_132	28S	ribosomal	RNA	
+MT765609.1	Glomeraceae	sp.	isolate	ASV_315	small	subunit	ribosomal	RNA	gene	
+AB561133.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+MH503989.1	Uncultured	Acaulospora	voucher	MG_OTU_ID#210_in	large	subunit	ribosomal	RNA	gene	
+KP756417.1	Acaulospora	sp.	2	SL-2017	isolate	TB9	clone	1	18S	ribosomal	RNA	gene	
+KC410981.1	Uncultured	Glomerales	clone	H9_10	large	subunit	ribosomal	RNA	gene	
+HF970270.1	Uncultured	Rhizophagus	genomic	DNA	containing	18S	rRNA	gene	
+HE603642.1	Acaulospora	nivalis	genomic	DNA	containing	18S	rRNA	gene	
+FR873160.1	Uncultured	Glomus	genomic	DNA	containing	18S	rRNA	gene	
+AB561115.1	Uncultured	Diversispora	gene	for	28S	ribosomal	RNA	
+MK875635.1	Glomus	sp.	clone	6	small	subunit	ribosomal	RNA	gene	
+OL672275.1	Dentiscutata	sp.	clone	HP4	small	subunit	ribosomal	RNA	gene	
+KJ484812.1	Uncultured	Glomeromycota	clone	Y_53	18S	ribosomal	RNA	gene	
+MT765435.1	Microdominikia	litorea	isolate	ASV_141	small	subunit	ribosomal	RNA	gene	
+FR871374.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+HQ856987.1	Glomus	etunicatum	isolate	CL372-2	clone	33	5.8S	ribosomal	RNA	gene	
+KT378088.1	Uncultured	Glomeromycotina	clone	PL1_13	18S	ribosomal	RNA	gene	
+KC411207.1	Uncultured	Glomerales	clone	B04_40	large	subunit	ribosomal	RNA	gene	
+FM876832.1	Pacispora	scintillans	18S	rRNA	gene	(partial)	
+JQ029763.1	Uncultured	Glomus	clone	41	large	subunit	ribosomal	RNA	gene	
+KM208142.1	Uncultured	Glomeromycota	clone	RHC2_33	18S	ribosomal	RNA	gene	
+CAKLDN070004366.1	Claroideoglomus	sp.	SA101	genome	assembly	
+OL672292.1	Dentiscutata	sp.	clone	LP8	small	subunit	ribosomal	RNA	gene	
+MH504081.1	Uncultured	Acaulospora	voucher	MG_OTU_ID#539_in	large	subunit	ribosomal	RNA	gene	
+AB206243.1	Glomus	sp.	S57	gene	for	large	subunit	rRNA	
+KF849484.1	Uncultured	Paraglomus	clone	AM4	18S	ribosomal	RNA	gene	
+MT765646.1	Glomus	macrocarpum	isolate	ASV_352	small	subunit	ribosomal	RNA	gene	
+JX848804.1	Uncultured	Glomeromycota	clone	04A_Plate2	28S	large	subunit	ribosomal	gene	
+LT993170.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+LR730435.1	Rhizophagus	intraradices	28S	large	subunit	ribosomal	RNA	gene	
+MH469398.1	Uncultured	Glomeromycotina	isolate	XG6519	small	subunit	ribosomal	RNA	gene	
+HG995512.1	uncultured	Glomerales	genomic	DNA	sequence	contains	18S	rRNA	gene	
+MT765673.1	Dentiscutata	sp.	isolate	ASV_379	small	subunit	ribosomal	RNA	gene	
+JX999969.1	Glomeromycota	sp.	F69	clone	F	18S	ribosomal	RNA	gene	
+HE863852.1	Diversispora	sp.	EE1	genomic	DNA	containing	18S	rRNA	gene	
+HF970217.1	Uncultured	Diversispora	genomic	DNA	containing	18S	rRNA	gene	
+MH469377.1	Uncultured	Glomeromycotina	isolate	G8370	small	subunit	ribosomal	RNA	gene	
+MT765295.1	Glomeraceae	sp.	isolate	ASV_1	small	subunit	ribosomal	RNA	gene	
+FN547534.1	Ambispora	appendicula	18S	rRNA	gene	(partial)	
+LC564866.1	Gigaspora	margarita	2018-09-SN-KKU	genes	for	ITS1	
+HF970230.1	Uncultured	Archaeospora	genomic	DNA	containing	18S	rRNA	gene	
+JF717574.1	Uncultured	Glomeromycota	clone	POSE_7E7	28S	large	subunit	ribosomal	RNA	gene	
+LC416195.1	Uncultured	Claroideoglomus	OTU481	gene	for	28S	ribosomal	RNA	
+HE775339.1	Uncultured	Glomeraceae	18S	rRNA	gene	(partial)	
+AY394691.1	Uncultured	ascomycete	clone	K31-8	28S	ribosomal	RNA	gene	
+MH982445.1	Uncultured	Archaeosporales	clone	CL0026	small	subunit	ribosomal	RNA	gene	
+KC410876.1	Uncultured	Glomerales	clone	H1_07	large	subunit	ribosomal	RNA	gene	
+AB547169.1	Uncultured	Gigaspora	gene	for	28S	ribosomal	RNA	
+MG664412.1	Uncultured	Glomeromycotina	clone	G40144	small	subunit	ribosomal	RNA	gene	
+AB935545.1	Uncultured	Claroideoglomus	gene	for	28S	ribosomal	RNA	
+KF836933.1	Glomus	sp.	27	ZHNL-2013c	isolate	E2_10	18S	ribosomal	RNA	gene	
+AY639187.1	Entrophospora	claroidea	clone	7.1	28S	large	subunit	ribosomal	RNA	gene	
+JF439138.1	Glomus	aggregatum	isolate	S08-1-13	18S	ribosomal	RNA	gene	
+JN182829.1	Uncultured	Glomeromycota	clone	P0321	25S	ribosomal	RNA	gene	
+KC166264.1	Ambispora	leptoticha	clone	559a	28S	ribosomal	RNA	gene	
+MT765718.1	Pervetustus	sp.	isolate	ASV_424	small	subunit	ribosomal	RNA	gene	
+MK570914.1	Septoglomus	sp.	isolate	CS01-23	small	subunit	ribosomal	RNA	gene	
+AB561130.1	Uncultured	Glomeromycota	gene	for	28S	ribosomal	RNA	
+DQ468805.1	Uncultured	glomeromycete	clone	G15	large	subunit	ribosomal	RNA	gene	
+MT765368.1	Dominikia	sp.	isolate	ASV_74	small	subunit	ribosomal	RNA	gene	
+AB561095.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+MT765684.1	Microdominikia	litorea	isolate	ASV_390	small	subunit	ribosomal	RNA	gene	
+KT378128.1	Uncultured	Glomeromycotina	clone	PL1_21	18S	ribosomal	RNA	gene	
+FR871350.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+LN736022.1	Acaulospora	foveata	partial	18S	rRNA	gene	
+KC411213.1	Uncultured	Glomerales	clone	B04_46	large	subunit	ribosomal	RNA	gene	
+MT765513.1	Paraglomus	sp.	isolate	ASV_219	small	subunit	ribosomal	RNA	gene	
+LR731207.1	Pacispora	scintillans	28S	large	subunit	ribosomal	RNA	gene	
+MT765390.1	Microdominikia	litorea	isolate	ASV_96	small	subunit	ribosomal	RNA	gene	
+LR731066.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+FN547509.2	Acaulospora	laevis	18S	rRNA	gene	(partial)	
+AY394698.1	Uncultured	Hymenoscyphus	clone	K24-32	28S	ribosomal	RNA	gene	
+MG664453.1	Uncultured	Glomeromycotina	clone	G31055	small	subunit	ribosomal	RNA	gene	
+HG425961.1	Uncultured	Claroideoglomeraceae	genomic	DNA	containing	18S	rRNA	gene	
+LR730807.1	Glomus	sp.	(unid)	28S	large	subunit	ribosomal	RNA	gene	
+KT456545.1	Rhizophagus	irregularis	strain	I	A	18S	ribosomal	RNA	gene	
+KJ850202.1	Diversispora	gibbosa	isolate	109-1-4	18S	ribosomal	RNA	gene	
+JQ029760.1	Uncultured	Glomus	clone	25	large	subunit	ribosomal	RNA	gene	
+HQ895792.2	Uncultured	Glomeromycota	clone	G11__32	18S	ribosomal	RNA	gene	
+JX276889.1	Uncultured	Glomeromycota	clone	KP_C026	18S	ribosomal	RNA	gene	
+AB640742.1	Uncultured	Glomus	gene	for	28S	ribosomal	RNA	
+MF542278.1	Uncultured	Glomeraceae	isolate	TS10	clone	23	small	subunit	ribosomal	RNA	gene	
+JX096595.1	Uncultured	Glomeromycota	clone	7_3	18S	ribosomal	RNA	gene	
+EF066437.1	Uncultured	glomeromycete	clone	2B4	28S	ribosomal	RNA	gene	
+MH469447.1	Uncultured	Glomeromycotina	isolate	G8266	small	subunit	ribosomal	RNA	gene	
+KC411182.1	Uncultured	Glomerales	clone	B04_12	large	subunit	ribosomal	RNA	gene	
+MH503970.1	Uncultured	Glomerales	voucher	MG_OTU_ID#145_in	large	subunit	ribosomal	RNA	gene	
+MZ536949.1	Nanoglomus	plukenetia	isolate	3a53	large	subunit	ribosomal	RNA	gene	
+KC410879.1	Uncultured	Glomerales	clone	H1_10	large	subunit	ribosomal	RNA	gene	
+JQ029759.1	Uncultured	Glomus	clone	35	large	subunit	ribosomal	RNA	gene	
+MH469418.1	Uncultured	Glomeromycotina	isolate	T7280	small	subunit	ribosomal	RNA	gene	
+HE858388.1	Uncultured	Glomus	partial	28S	rRNA	gene	
+LT993156.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+MH469426.1	Uncultured	Glomeromycotina	isolate	T61048	small	subunit	ribosomal	RNA	gene	
+KP756466.1	Acaulospora	mellea	isolate	TS3	clone	3	18S	ribosomal	RNA	gene	
+KC411268.1	Uncultured	Glomerales	clone	B08_50	large	subunit	ribosomal	RNA	gene	
+AM268199.1	Ambispora	fennica	region	encoding	18S	rRNA	gene	(partial)	
+AB369791.1	Uncultured	Acaulospora	gene	for	28S	ribosomal	RNA	
+AJ854628.1	Glomus	sp.	MUCL	43207	28S	rRNA	gene	
+KC411098.1	Uncultured	Glomerales	clone	H17_28	large	subunit	ribosomal	RNA	gene	
+LR730977.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+LR731825.1	Pacispora	scintillans	28S	large	subunit	ribosomal	RNA	gene	
+HG995958.1	uncultured	Paraglomerales	genomic	DNA	sequence	contains	18S	rRNA	gene	
+AB369814.1	Uncultured	Paraglomus	gene	for	28S	ribosomal	RNA	
+FR681931.1	Uncultured	Acaulospora	18S	rRNA	gene	(partial)	
+KC166283.1	Ambispora	gerdemannii	clone	287a	28S	ribosomal	RNA	gene	
+JF439089.1	Acaulospora	mellea	isolate	G34-3	18S	ribosomal	RNA	gene	
+FR750152.1	Acaulospora	spinosa	18S	rRNA	gene	(partial)	
+HQ128650.1	Uncultured	Glomeromycota	clone	IIA2c23	25S	ribosomal	RNA	gene	
+KM208051.1	Uncultured	Glomeromycota	clone	RLS2_38	18S	ribosomal	RNA	gene	
+HM216014.1	Uncultured	Glomus	clone	GLO_AL45-ST028	28S	ribosomal	RNA	gene	
+KY242693.1	Uncultured	Paraglomus	clone	TS-A23d	small	subunit	ribosomal	RNA	gene	
+AY639353.1	Uncultured	Glomeromycotina	clone	6.3	28S	large	subunit	ribosomal	RNA	gene	
+JX276910.1	Uncultured	Glomeromycota	clone	KP_C091	18S	ribosomal	RNA	gene	
+LR731354.1	Diversispora	epigaea	28S	large	subunit	ribosomal	RNA	gene	
+AY639247.1	Cetraspora	pellucida	clone	12.2	28S	large	subunit	ribosomal	RNA	gene	
+LT993169.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+AF396789.1	Glomus	caledonium	isolate	RMC_658	28S	ribosomal	RNA	
+LR731117.1	Rhizophagus	intraradices	28S	large	subunit	ribosomal	RNA	gene	
+HE775313.1	Uncultured	Rhizophagus	18S	rRNA	gene	(partial)	
+HF970289.1	Uncultured	Claroideoglomus	genomic	DNA	containing	18S	rRNA	gene	
+GQ896292.1	Uncultured	Glomeromycota	clone	I6B21	25S	ribosomal	RNA	gene	
+MG774937.1	Uncultured	Glomeromycotina	clone	OTU	4	large	subunit	ribosomal	RNA	gene	
+DQ400265.1	Uncultured	Paraglomus	clone	S2R1.14	18S	ribosomal	RNA	gene	
+MH982576.1	Uncultured	Archaeosporales	clone	CL0463	small	subunit	ribosomal	RNA	gene	
+KC411176.1	Uncultured	Glomerales	clone	B04_06	large	subunit	ribosomal	RNA	gene	
+LT993173.1	Uncultured	Glomeromycotina	genomic	DNA	sequence	contains	ITS2	
+MF590003.1	Uncultured	Glomus	clone	MG-2-10-24	small	subunit	ribosomal	RNA	gene	
+HQ895798.2	Uncultured	Glomeromycota	clone	G11_20	18S	ribosomal	RNA	gene	
+MT722024.1	Entrophospora	sp.	clone	10	small	subunit	ribosomal	RNA	gene	
+LR731220.1	Glomus	sp.	(unid)	28S	large	subunit	ribosomal	RNA	gene	
+KC411358.1	Uncultured	Glomerales	clone	B14_48	large	subunit	ribosomal	RNA	gene	
+KC410996.1	Uncultured	Glomerales	clone	H9_27	large	subunit	ribosomal	RNA	gene	
+MH469453.1	Uncultured	Glomeromycotina	isolate	G8396	small	subunit	ribosomal	RNA	gene	
+LR730768.1	Otospora	bareae	28S	large	subunit	ribosomal	RNA	gene	
+JX096583.1	Uncultured	Glomeromycota	clone	4_33	18S	ribosomal	RNA	gene	
+GQ149185.1	Uncultured	glomeromycete	clone	ULHC08047	large	subunit	ribosomal	RNA	gene	
+AB935529.1	Uncultured	Glomeraceae	gene	for	28S	ribosomal	RNA	
+JX096591.1	Uncultured	Glomeromycota	clone	5_39	18S	ribosomal	RNA	gene	
+GU326339.1	Acaulospora	colliculosa	clone	1.1	28S	ribosomal	RNA	gene	
+KC410877.1	Uncultured	Glomerales	clone	H1_08	large	subunit	ribosomal	RNA	gene	
+MT765334.1	Paraglomus	sp.	isolate	ASV_40	small	subunit	ribosomal	RNA	gene	
+AB369792.1	Uncultured	Acaulospora	gene	for	28S	ribosomal	RNA	
+JX683735.1	Uncultured	Glomeraceae	clone	Agro-03-S	28S	ribosomal	RNA	gene	
+KM057068.1	Acaulospora	excavata	clone	1.1	internal	transcribed	spacer	1	
+MT765634.1	Glomeraceae	sp.	isolate	ASV_340	small	subunit	ribosomal	RNA	gene	
+KF849513.1	Uncultured	Acaulospora	clone	AM33	18S	ribosomal	RNA	gene	
+FN547525.1	Ambispora	appendicula	18S	rRNA	gene	(partial)	
+MH504002.1	Uncultured	Acaulospora	voucher	MG_OTU_ID#261_in	large	subunit	ribosomal	RNA	gene	
+HG969372.1	Rhizophagus	intraradices	genomic	DNA	containing	18S	rRNA	gene	
+MH469328.1	Uncultured	Glomeromycotina	isolate	T10420	small	subunit	ribosomal	RNA	gene	
+GQ896310.1	Uncultured	Glomeromycota	clone	I1A20	25S	ribosomal	RNA	gene	
+HF548855.1	Septoglomus	viscosum	genomic	DNA	containing	18S	rRNA	gene	
