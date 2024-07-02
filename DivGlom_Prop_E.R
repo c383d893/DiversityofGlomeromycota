@@ -221,6 +221,10 @@ dat <- sitep_smd_all_tree_fam %>%
   filter(AMF_family!="Gigasporaceae") %>%
   filter(Biome!= "Boreal")
 
+#jitter y values proportions
+dat <- dat %>%
+  mutate(prop_jitter = abs(jitter(prop)))
+
 #keep all data, binomial too many zeros
 prop.fam.tree.full <- glmer(cbind(reads_sample,rest) ~ Biome*AMF_family*Remnant_2 + (1|Biome:State:Site:Replicate), family = "binomial", data = dat)
 
@@ -286,10 +290,10 @@ png("figures/TREE_PROP_AMFXBiome.jpg", width = 17, height = 8, units ='in', res 
 ggplot(ref.table, aes(Biome, lsmean, color = Biome, fill = Biome)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  smd_all_tree_fam, aes(Biome, chao1, color = Biome), 
-             position = position_jitter(width =.2),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data = dat, aes(Biome, prop_jitter, color = Biome), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(~AMF_family) +
   theme_minimal(base_size = 25) +
@@ -319,10 +323,10 @@ png("figures/TREE_PROP_AMFXRemn.jpg", width = 17, height = 8, units ='in', res =
 ggplot(ref.table, aes(Remnant_2, lsmean, color = Remnant_2, fill = Remnant_2)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  smd_all_tree_fam, aes(Remnant_2, chao1, color = Remnant_2), 
-             position = position_jitter(width =.2),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data =  dat, aes(Remnant_2, prop_jitter, color = Remnant_2), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(~AMF_family) +
   theme_minimal(base_size = 25) +
@@ -352,10 +356,10 @@ png("figures/TREE_PROP_AMFXRemnXBiome.jpg", width = 17, height = 10, units ='in'
 ggplot(ref.table, aes(Remnant_2, lsmean, color = Remnant_2, fill = Remnant_2)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  sitep_smd_all_tree_fam, aes(Remnant_2, prop, color = Remnant_2), 
-             position = position_jitter(width = 0.4),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data =  dat, aes(Remnant_2, prop_jitter, color = Remnant_2), 
+             position = position_jitter(width = .2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(rows = vars(Biome), cols = vars(AMF_family)) +
   theme_minimal(base_size = 25) +
@@ -395,6 +399,10 @@ dat <- sitep_smd_all_tree_fam %>%
   filter(AMF_family!="Paraglomeraceae") %>%
   filter(AMF_family!="Gigasporaceae") %>%
   filter(Biome!= "Boreal")
+
+#jitter y values proportions
+dat <- dat %>%
+  mutate(prop_jitter = abs(jitter(prop)))
 
 #keep all data, binomial too many zeros
 prop.fam.tree.full <- glmer(cbind(reads_sample,rest) ~ Biome*AMF_family*Remnant + (1|Biome:State:Site:Replicate), family = "binomial", data = dat)
@@ -503,10 +511,10 @@ png("figures/TREE_PROP_AMFXBiome3.jpg", width = 17, height = 8, units ='in', res
 ggplot(ref.table, aes(Biome, lsmean, color = Biome, fill = Biome)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  smd_all_tree_fam, aes(Biome, chao1, color = Biome), 
-             position = position_jitter(width =.2),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data =  dat, aes(Biome, prop_jitter, color = Biome), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(~AMF_family) +
   theme_minimal(base_size = 25) +
@@ -536,10 +544,10 @@ png("figures/TREE_PROP_AMFXRemn3.jpg", width = 17, height = 8, units ='in', res 
 ggplot(ref.table, aes(Remnant, lsmean, color = Remnant, fill = Remnant)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  smd_all_tree_fam, aes(Remnant, chao1, color = Remnant), 
-             position = position_jitter(width =.2),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data =  dat, aes(Remnant, prop_jitter, color = Remnant), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(~AMF_family) +
   theme_minimal(base_size = 25) +
@@ -569,10 +577,10 @@ png("figures/TREE_PROP_AMFXRemnXBiome3.jpg", width = 17, height = 12, units ='in
 ggplot(ref.table, aes(Remnant, lsmean, color = Remnant, fill = Remnant)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  sitep_smd_all_tree_fam, aes(Remnant, prop, color = Remnant), 
-             position = position_jitter(width = 0.4),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data =  dat, aes(Remnant, prop_jitter, color = Remnant), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(rows = vars(Biome), cols = vars(AMF_family)) +
   theme_minimal(base_size = 25) +
@@ -614,6 +622,10 @@ dat <- sitep_smd_all_blast_fam %>%
   filter(AMF_family!="Sacculosporaceae") %>%
   filter(AMF_family!="Pervestustaceae") %>%
   filter(Biome!= "Boreal")
+
+#jitter y values proportions
+dat <- dat %>%
+  mutate(prop_jitter = abs(jitter(prop)))
 
 #keep all data, binomial too many zeros
 prop.fam.blast.full <- glmer(cbind(reads_sample,rest) ~ Biome*AMF_family*Remnant_2 + (1|Biome:State:Site:Replicate), family = "binomial", data = dat)
@@ -683,10 +695,10 @@ f.ref.table <- f.ref.table %>%
 ggplot(ref.table, aes(Biome, lsmean, color = Biome, fill = Biome)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  smd_all_blast_fam, aes(Biome, chao1, color = Biome), 
-             position = position_jitter(width =.2),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data = dat, aes(Biome, prop_jitter, color = Biome), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(~AMF_family) +
   theme_minimal(base_size = 25) +
@@ -716,10 +728,10 @@ f.ref.table <- f.ref.table %>%
 ggplot(ref.table, aes(Remnant_2, lsmean, color = Remnant_2, fill = Remnant_2)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  smd_all_blast_fam, aes(Remnant_2, chao1, color = Remnant_2), 
-             position = position_jitter(width =.2),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data = dat, aes(Remnant_2, prop_jitter, color = Remnant_2), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(~AMF_family) +
   theme_minimal(base_size = 25) +
@@ -749,10 +761,10 @@ f.ref.table <- f.ref.table %>%
 ggplot(ref.table, aes(Remnant_2, lsmean, color = Remnant_2, fill = Remnant_2)) + 
   geom_bar(stat="identity", alpha = 0.7) +
   geom_point(position=position_dodge(1), size =4) + 
-  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width=.5,size=1, position=position_dodge(1)) +
-  geom_point(data =  sitep_smd_all_blast_fam, aes(Remnant_2, prop, color = Remnant_2), 
-             position = position_jitter(width = 0.4),size=2, alpha=0.3) +
-  geom_bar(data = f.ref.table, stat="identity", alpha = 0.3) +
+  geom_errorbar(aes(ymin=lsmean-SE, ymax=lsmean+SE), width = 0.5,size=1, position=position_dodge(1)) +
+  geom_point(data = dat, aes(Remnant_2, prop_jitter, color = Remnant_2), 
+             position = position_jitter(width = 0.2, height = 0),size=2, alpha=0.3) +
+  geom_bar(data = f.ref.table, stat="identity", alpha = 0.1) +
   geom_point(data = f.ref.table, position=position_dodge(1), size =4, alpha= 0.7) + 
   facet_grid(rows = vars(Biome), cols = vars(AMF_family)) +
   theme_minimal(base_size = 25) +

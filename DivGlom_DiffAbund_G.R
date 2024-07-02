@@ -37,7 +37,7 @@ otu_table(phyloseq_all_blast) <- otu_table(phyloseq_all_blast) + 1
 
 # family data
 taxa_tree <- read.table('data/ASV_family.tsv',header=TRUE) %>% mutate(ASV = X.ASV.ID) %>% select(-X.ASV.ID) %>% mutate(across('ASV', str_replace, 'ASV_', ''))
-taxa_blast <- readRDS('data/taxa_blast.RDS') %>% rownames_to_column(., "ASV") %>% select(-c("NCBI_ID","Percentage")) %>% mutate(across('ASV', str_replace, 'ASV_', ''))
+taxa_blast <- readRDS('data/taxa_blast.RDS') #%>% rownames_to_column(., "ASV") %>% select(-c("NCBI_ID","Percentage")) %>% mutate(across('ASV', str_replace, 'ASV_', ''))
 
 # look at metadata
 smd.tree <- as(sample_data(phyloseq_all_tree), 'data.frame')
