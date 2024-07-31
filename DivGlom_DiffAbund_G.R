@@ -25,8 +25,6 @@ colFillR <- scale_fill_manual(name = "Land use", values = c("orange3","olivedrab
 ########### LOAD DATA ##########
 ################################
 
-test <- readRDS("data/phyloseq_all_tree_AK.BR.KS2019.RDS") %>% prune_taxa(taxa_sums(.) > 0, .) %>% subset_samples(., Biome =="Boreal")
-
 # read phyloseq data
 phyloseq_all_tree <- readRDS("data/phyloseq_all_tree_AK.BR.KS2019.RDS") %>% prune_taxa(taxa_sums(.) > 0, .)
 phyloseq_all_blast <- readRDS("data/phyloseq_all_blast_AK.BR.KS2019.RDS") %>% prune_taxa(taxa_sums(.) > 0, .)
@@ -48,15 +46,8 @@ phyloseq_all_tree_boreal <- phyloseq_all_tree %>% subset_samples(Biome == "Borea
 phyloseq_all_tree_temp <- phyloseq_all_tree %>% subset_samples(Biome == "Temperate") %>% subset_samples(!Remnant == "Post-ag")
 phyloseq_all_tree_trop <- phyloseq_all_tree %>% subset_samples(Biome == "Tropical") %>% subset_samples(!Remnant == "Post-ag")
 
-phyloseq_all_tree_temp_postag <- phyloseq_all_tree %>% subset_samples(Biome == "Temperate") %>% subset_samples(!Remnant == "Disturbed")
-phyloseq_all_tree_trop_postag <- phyloseq_all_tree %>% subset_samples(Biome == "Tropical") %>% subset_samples(!Remnant == "Disturbed")
-
-# full dataset no post-ag and no remnant
+# subset no postag
 phyloseq_all_tree_remdist <- phyloseq_all_tree %>% subset_samples(!Remnant == "Post-ag")
-phyloseq_all_tree_postag <- phyloseq_all_tree %>% subset_samples(!Remnant == "Remnant")
-
-# full dataset temp v tropical
-phyloseq_all_tree_tt <- phyloseq_all_tree %>% subset_samples(!Biome == "Boreal")
 
 # look at metadata
 smd.tree.boreal <- as(sample_data(phyloseq_all_tree_boreal), 'data.frame')
@@ -81,15 +72,8 @@ dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_boreal, ~ Remnant)
 dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_temp, ~ Remnant)
 dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_trop, ~ Remnant)
 
-#for remnant v post-ag comparison
-dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_temp_postag, ~ Remnant)
-dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_trop_postag, ~ Remnant)
-
 #including all biomes 
 dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_remdist, ~ Remnant + Biome)
-
-#including all biomes, for remnant v post-ag comparison
-dat.deseq <- phyloseq_to_deseq2(phyloseq_all_tree_postag, ~ Remnant + Biome)
 
 #check reference level
 levels(dat.deseq$Remnant)
@@ -106,7 +90,7 @@ resOrdered <- res[order(res$pvalue),]
 # more conservative: use for TROP, all biomes combined
 resSig <- subset(resOrdered, padj < 0.1) 
 # more lenient: use for Boreal and temp
-resSig <- subset(resOrdered, pvalue < 0.1)
+#resSig <- subset(resOrdered, pvalue < 0.1)
 
 # convert to dataframe
 res.df <- as.data.frame(resSig) %>%
@@ -117,7 +101,11 @@ res.df <- as.data.frame(resSig) %>%
   drop_na(padj)
 
 # write table
-write_csv(res.df, "data/landuse.csv")
+write_csv(res.df, "data/DA_boreal_landuse.csv")
+#write_csv(res.df, "data/DA_temp_landuse.csv")
+write_csv(res.df, "data/DA_trop_landuse.csv")
+
+write_csv(res.df, "data/DA_landuse.csv")
 
 # across families
 # choose one.
@@ -125,11 +113,7 @@ png("figures/TREE_DA_Boreal.jpg", width = 17, height = 8, units ='in', res = 300
 png("figures/TREE_DA_Temp.jpg", width = 17, height = 8, units ='in', res = 300)
 png("figures/TREE_DA_Trop.jpg", width = 17, height = 8, units ='in', res = 300)
 
-png("figures/TREE_DA_Temp_Postag.jpg", width = 17, height = 8, units ='in', res = 300)
-png("figures/TREE_DA_Trop_Postag.jpg", width = 17, height = 8, units ='in', res = 300)
-
 png("figures/TREE_DA_AllBiomes.jpg", width = 17, height = 8, units ='in', res = 300)
-png("figures/TREE_DA_AllBiomes_Postag.jpg", width = 17, height = 8, units ='in', res = 300)
 
 ggplot(data = res.df, aes(x = fct_reorder(ASV, AMF_family), y = log2FoldChange, fill = AMF_family)) + 
   geom_bar(stat="identity") +

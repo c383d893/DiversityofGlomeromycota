@@ -488,13 +488,16 @@ taxa.blasttotree_temp.remn.5 <- tax_table(phyloseq_blasttotree_temp.remn.5) %>% 
 taxa.blasttotree_temp.remn.15 <- tax_table(phyloseq_blasttotree_temp.remn.15) %>% as.data.frame()
 
 #rownames(taxa.blasttotree_boreal)
-rownames(taxa.blasttotree_trop)
+rnamestrop <- rownames(taxa.blasttotree_trop) %>% as.list
 #"ASV_1786"  "ASV_2373"  "ASV_3734"  "ASV_3755"  "ASV_4173"  "ASV_6320"  "ASV_10244" "ASV_11042" "ASV_17461" "ASV_18754" "ASV_23553"
 #"ASV_25219" "ASV_26206" "ASV_30814" "ASV_32361" "ASV_37976" "ASV_38043" "ASV_40327" "ASV_53895"
-rownames(taxa.blasttotree_temp)
+rnamestemp <- rownames(taxa.blasttotree_temp) %>% as.list
 # "ASV_6379"  "ASV_6941"  "ASV_11663" "ASV_11809" "ASV_13092" "ASV_13347" "ASV_14555" "ASV_14651" "ASV_15108" "ASV_22229" "ASV_23061"
 # "ASV_24456" "ASV_26322" "ASV_30961" "ASV_36559" "ASV_38495" "ASV_41126" "ASV_44264" "ASV_46933" "ASV_48033" "ASV_48750" "ASV_49440"
 # "ASV_51364" "ASV_52723" "ASV_54375" "ASV_56133" "ASV_60333" "ASV_60377" "ASV_61072"
+
+#which overlap?
+common_rnames <- intersect(rnamestrop, rnamestemp)
 
 rownames(taxa.blasttotree_temp.ag.5) # ASV_13347
 rownames(taxa.blasttotree_temp.ag.15) # ASV_6941; ASV_24456
