@@ -1,0 +1,32 @@
+#!/bin/bash
+
+#SBATCH -n 3
+#SBATCH --cpus-per-task=3
+#SBATCH --time=10:00:00
+#SBATCH --mem-per-cpu=5632
+
+
+#1. make db 
+module load gcc/6.3.0 blast-plus/2.9.0
+
+
+#2. run blastn
+
+makeblastdb -in allglom_NCBI_6.4.23.fasta -input_type fasta -dbtype nucl -out allglom_NCBI_6.4.23
+
+# blastn -db allglom_NCBI_6.4.23 -query ASVrepseqs_clean_AMFonly.fasta -out blast_allglom_tophit_26.04.23 -outfmt 6
+
+#Blast R1, extract top hit based on bit score, extract col 1, replace header with feature-id
+blastn -db allglom_NCBI_6.4.23 -query ASVrepseqs_clean_BLAST.fasta -outfmt 6 | sort -k1,1 -k12,12nr -k11,11n | sort -u -k1,1 --merge | cut -f1-12 > blast_allglom_tophit_07.06.23 
+
+
+# CHATGPT LINE : blastn -db allglom_NCBI_6.4.23 -query ASVrepseqs_clean_AMFonly.fasta -outfmt 6 | sort -k1,1 -k12,12nr -k11,11n | sort -u -k1,1 --merge | awk '!a[$1]++' | cut -f1-12 | blast_formatter -archive blast_allglom_tophit_26.04.23 -outfmt 0
+
+######COMENT ABOUT NAME OF FILES #########
+#allglom_NCBI_6.4.23 -> is the fasta file of all NCBI database that match the keyword "Glomeromycota" 
+# blasting_NCBI_fasta_Readme.save  -> code to compare a fasta database with ASV sequence out form an illuminasquencer and explanation about the name of the different file to compare ASVs with a NCBI database
+#blast_allglom_12.4.23 -> comparision of whole glomeromycota from NCBI with the sequences out from illumina from our samples. with the percentage of similarities
+#column meaning : 1. Query sequence ID 2. Subject sequence iD 3. Percent identity 4. Alignement sequnece 5. Nunmber of mismatches 6. Number of gaps openings 7. Query start positions 8. Query end position 9. Subject start position 10. SUbject end position 
+#11. E-value 12. Bit score (score, could be sued for copmparing two differnent significance of differnet matches
+
+
